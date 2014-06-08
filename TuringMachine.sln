@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuringMachine", "TuringMachine\TuringMachine.csproj", "{B77AF0E0-57F6-40E8-ADE4-A5C705B6C329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77AF0E0-57F6-40E8-ADE4-A5C705B6C329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77AF0E0-57F6-40E8-ADE4-A5C705B6C329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77AF0E0-57F6-40E8-ADE4-A5C705B6C329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77AF0E0-57F6-40E8-ADE4-A5C705B6C329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
